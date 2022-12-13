@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: darkgray;
+}
+
+body{
+    background-image: url(/landingpage/image/pexels-tirachard-kumtanom-450055.jpg);
+}
+
+
+
+.heading{
+    font-size: 30px;
+}
+
+.nav h3{
+    font-size: 800;
+}
+
+.nav ul li{
+    display: inline-block;
+
+}
+ .nav ul li a{  
+    text-decoration: none;
+    color: grey;
+    margin-right: 20px ;
+    font-size: 20px;
+    font-weight: 400;
+ }
+
+ .nav ul li a:hover{
+    color: #fff;
+ }
+ .home{
+    margin-left: 800px;
+ }
+
+ .text{
+    margin-top: 200px;
+    text-align: center;
+    font-size: 400;
+    font-family:Arial, Helvetica, sans-serif
+ }
+
+
+ .search{
+    margin: 80px 560px;
+    height: 30px;
+    
+ }
+
+ .btn{
+    width: 80px;
+    border-radius: 5%;
+    background-color:gray;
+    color: #fff;
+    margin: 10px 600px;
+    
+ }
+
+ .btn:hover{
+    background-color:black;
+    cursor: pointer;
+ }
+
+ .footer p{
+    text-align: center;
+    padding-top: 100px;
+ }
